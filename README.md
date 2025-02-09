@@ -26,8 +26,8 @@ Data Collection, Data Wrangling, Data Preprocessing, EDA, Model Building, Model 
 * Highly correlated features with target variables was calculated using correlation matrix and heat map
 * Split the dataset into train and test set for model building
 * Used Linear regression and Decision tree regression for model building
-* Coefficient of determination for Linear regression is 0.77 and that for Decisiontree regression is 0.97
-* Decision Tree was used to build predictive model
+* Coefficient of determination for Linear regression is 0.77 and that for Random Forest regression is 0.98
+* Random Forest Tree was used to build predictive model
 * Using pickling , pickle the model for further usage
 * Created a simple streamlit  UI for the users to set the values for predicting resale flat price in Singapore
 * Price per square meter, Flat type, Floor area square meter are the few features highly impacting the resale price
